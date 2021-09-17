@@ -1,0 +1,12 @@
+.auth-bg {
+	background: url('../../../design/img/lockscreen.jpg') no-repeat center;
+	background-size: cover;
+	height: 100%;
+	width: 100%;
+	filter: opacity(65%);
+}
+
+.auth-wrapper {
+	height: 100%;
+	width: 100%;
+}
